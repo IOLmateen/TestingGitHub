@@ -12,6 +12,7 @@ namespace LearningGitHub1
         {
             Console.WriteLine("helloWroldofgithub");
             Console.ReadLine();
+            Console.Write("I am testing GitHub");
         }
     }
 }
