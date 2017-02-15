@@ -10,7 +10,8 @@ namespace LearningGitHub1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("helloWrold");
+            Console.WriteLine("helloWroldofgithub");
+            Console.ReadLine();
         }
     }
 }
